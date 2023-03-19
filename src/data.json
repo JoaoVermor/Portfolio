@@ -1,0 +1,96 @@
+{
+    "name": "João Paulo Verdan Moreira",
+    "photo": "https://raw.githubusercontent.com/JoaoVermor/Api/main/312287693_109539868582802_2229825560546647470_n.jpg",
+    "job": "Desenvolvedor Web Backend na Atlas Soluções em Tecnologias",
+    "localidade": "Itabira - MG",
+    "phone": "(31) 98947-2276",
+    "email": "joaopaulovermor01@gmail.com",
+    "Github": "Github",
+    "Linkedin": "Linkedin",
+    "skills": {
+        "hardSkills": [
+            {
+                "name": "Javascript",
+                "logo": "https://raw.githubusercontent.com/JoaoVermor/Api/main/Tools/Javascript.png"
+            },
+            {
+                "name": "Node.js",
+                "logo": "https://raw.githubusercontent.com/JoaoVermor/Api/main/Tools/Node.png"
+            },
+            {
+                "name": "Css",
+                "logo": "https://raw.githubusercontent.com/JoaoVermor/Api/main/Tools/Css.png"
+            },
+            {
+                "name": "Html",
+                "logo": "https://raw.githubusercontent.com/JoaoVermor/Api/main/Tools/Html.png"
+            },
+            {
+                "name": "MongoDB",
+                "logo": "https://raw.githubusercontent.com/JoaoVermor/Api/main/Tools/MongoDB.png"
+            },
+            {
+                "name": "PostgreSQL",
+                "logo": "https://raw.githubusercontent.com/JoaoVermor/Api/main/Tools/PostgreSQL.png"
+            },
+            {
+                "name": "Github",
+                "logo": "https://raw.githubusercontent.com/JoaoVermor/Api/main/Tools/Github.png"
+            }
+        ],
+        "softSkills": [
+            "Comunicação",
+            "Flexibilidade",
+            "Proatividade",
+            "Trabalho em equipe"
+        ]
+    },
+    "languages": [
+        "Português",
+        "Inglês (Intermediário)"
+    ],
+    "education": {
+        "college": [
+            {
+                "description": "Graduando em engenharia da computação.",
+                "college": "Universidade Federal de Itajubá",
+                "period": "2020 - Atualmente" 
+            }
+        ],
+        "certificates": [
+            {
+                "name": "Dominando Conceitos Avançados em JavaScript",
+                "link": "https://www.dio.me/certificate/8C356C13",
+                "site": true
+            },
+            {
+                "name": "JavaScript para Web: Fundamentos de HTML, CSS e APIs na Prática",
+                "link": "https://www.dio.me/certificate/4D575BA8",
+                "site": true
+            },
+            {
+                "name": "Fundamentos da Plataforma Java",
+                "link": "https://www.dio.me/certificate/E978D584",
+                "site": true
+            }
+        ]
+    },
+    "portfolio": [
+        {
+            "name": "Criação de Cards de Dark Souls com React, Node e PostgreSQL",
+            "url": "https://github.com/JoaoVermor/CardsDS",
+            "github": true
+        },
+        {
+            "name": "Jogo 2D de The Witcher com javascript",
+            "url": "https://github.com/JoaoVermor/ProjetoTheWitcher",
+            "github": true
+        }
+    ],
+    "professionalExperience": [
+        {
+            "name": "Desenvolvedor backend / Atlas Soluções em Tecnologias",
+            "period": "06/2022 - atual"
+        }
+    ]
+}
